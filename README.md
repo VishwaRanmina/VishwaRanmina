@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System+Initializing...;User:+Software+Engineer;Loading+Modules:+AI+%26+Cyber+Security;Access+Granted.;Welcome+to+my+Profile." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMxv2/giphy.gif" width="600" alt="AI Vision">
 
   <br/>
   <img src="https://i.imgur.com/P6fxW06.gif" width="600" alt="AI Digital Brain">
