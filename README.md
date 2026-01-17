@@ -24,7 +24,7 @@ I am a visionary **Software Engineer & AI Student** from **Sri Lanka 🇱🇰**,
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishwaRanmina&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VishwaRanmina & theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
