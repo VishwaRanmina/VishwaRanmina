@@ -1,13 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMxv2/giphy.gif" width="600" alt="AI Vision">
-
-  <br/>
-  <img src="https://i.imgur.com/P6fxW06.gif" width="600" alt="AI Digital Brain">
-
-  <br/>
-
-  # Hi, I'm [YOUR NAME] 👋
+  # Hi, I'm Vishwa Ranmina 👋
   
   ### 🚀 Software Engineer | AI & Cyber Security Enthusiast
   
