@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/VishwaRanmina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vishwaranmina25@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/VishwaRanmina"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -24,7 +24,7 @@ I am a visionary **Software Engineer & AI Student** from **Sri Lanka 🇱🇰**,
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishwaRanmina & theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VishwaRanmina&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
@@ -85,11 +85,20 @@ I am a visionary **Software Engineer & AI Student** from **Sri Lanka 🇱🇰**,
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishwaRanmina&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaRanmina&layout=compact&theme=radical" height="180" alt="languages graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishwaRanmina&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaRanmina&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=36BCF7" width="100%" alt="Activity Graph" />
 </div>
 
 ### 🧩 Contributions
